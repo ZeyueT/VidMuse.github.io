@@ -1,1 +1,1 @@
-# VidMuse.github.io
+# Project Page for VidMuse
